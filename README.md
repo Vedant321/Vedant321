@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Vedant Shinde 👋
+Data Science & ML enthusiast | Reinforcement Learning | End-to-End ML Systems
 
-<!--
-**Vedant321/Vedant321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- MS in Data Science @ University at Buffalo
+- 4+ years building automated & production-ready systems
+- Interests: RL, Predictive Modeling, MLOps, Data Pipelines
 
-Here are some ideas to get you started:
+## Main Skills
+**Languages & DBs:** Python, R, SQL, PostgreSQL, MongoDB, Prometheus  
+**ML & Tools:** PyTorch, Scikit-Learn, Streamlit, Docker, FastAPI, MLflow  
+**Domains:** RL, Predictive Analytics, Data Visualization, MLOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Advanced RL & Optimization
+- Productionizing ML Pipelines
+- LLMs for SQL & Automation Tasks
+
+## Projects
+- Multi-agent RLAIF and User Simulations for Goal-Oriented Dialogue
+- **Warehouse Robot Navigation:** Gymnasium-based RL environment for delivery tasks
+- **Stock Trading RL Env:** Q-learning on historical stock data for portfolio optimization  
+- **LLM SQL Query Assistant:** Streamlit app for natural-language to SQL conversion  
+- **Online Retail Analysis:** End-to-end ML pipeline predicting high-value customers
+
+![Terminal GIF](link-to-your-gif.gif)
