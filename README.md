@@ -15,12 +15,15 @@ Data Science & ML enthusiast | Reinforcement Learning | End-to-End ML Systems
 - Advanced RL & Optimization
 - Productionizing ML Pipelines
 - LLMs for SQL & Automation Tasks
+- Scalable Data Engineering & Database Design  
+
 
 ## Projects
 - Multi-agent RLAIF and User Simulations for Goal-Oriented Dialogue
 - **Warehouse Robot Navigation:** Gymnasium-based RL environment for delivery tasks
 - **Stock Trading RL Env:** Q-learning on historical stock data for portfolio optimization  
-- **LLM SQL Query Assistant:** Streamlit app for natural-language to SQL conversion  
+- **LLM SQL Query Assistant:** Streamlit app for natural-language to SQL conversion
+- **CSV → 3NF Data Pipeline:** End-to-end data engineering pipeline transforming raw CSVs into a normalized PostgreSQL database
 - **Online Retail Analysis:** End-to-end ML pipeline predicting high-value customers
 
 ![Terminal GIF](link-to-your-gif.gif)
