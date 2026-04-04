@@ -10,7 +10,8 @@ Data Science & ML enthusiast | Reinforcement Learning | End-to-End ML Systems
 **Languages & DBs:** Python, R, SQL, PostgreSQL, MongoDB, Prometheus  
 **ML & Tools:** PyTorch, Scikit-Learn, Streamlit, Docker, FastAPI, MLflow  
 **Domains:** RL, Predictive Analytics, Data Visualization, MLOps
-** Others:** Experimentation, Hypothesis Testing, A/B Testing, Causal Analysis
+
+**Others:** Experimentation, Hypothesis Testing, A/B Testing, Causal Analysis
 
 ## Currently Learning
 - Advanced RL & Optimization
