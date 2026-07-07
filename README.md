@@ -4,20 +4,20 @@ Data Science & ML enthusiast | Reinforcement Learning | End-to-End ML Systems
 ## About Me
 - MS in Data Science @ University at Buffalo
 - 4+ years building automated & production-ready systems
-- Interests: RL, Predictive Modeling, MLOps, Data Pipelines
+- Interests: Data Engineering, Data Science, Data Modeling, Data Pipelines, Predictive Modeling, MLOps, RL
 
 ## Main Skills
 **Languages & DBs:** Python, R, SQL, PostgreSQL, MongoDB, Prometheus  
 **ML & Tools:** PyTorch, Scikit-Learn, Streamlit, Docker, FastAPI, MLflow  
-**Domains:** RL, Predictive Analytics, Data Visualization, MLOps
-
+**Domains:** Data Engineering, Data Science, Data Modeling, Data Warehousing, RL, Predictive Analytics, Data Visualization, MLOps
 **Others:** Experimentation, Hypothesis Testing, A/B Testing, Causal Analysis
 
 ## Currently Learning
+- Scalable Data Engineering & Database Design
+- Experimentation
 - Advanced RL & Optimization
 - Productionizing ML Pipelines
 - LLMs for SQL & Automation Tasks
-- Scalable Data Engineering & Database Design  
 
 
 ## Projects
