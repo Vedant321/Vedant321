@@ -1,5 +1,5 @@
 ## Hi there, I'm Vedant Shinde 👋
-Data Science & ML enthusiast | Reinforcement Learning | End-to-End ML Systems
+Data Science, Engineering & ML enthusiast | Data Modeling | Reinforcement Learning | End-to-End ML Systems
 
 ## About Me
 - MS in Data Science @ University at Buffalo
