@@ -6,7 +6,7 @@ Data Science, Engineering & ML enthusiast | Data Modeling | Reinforcement Learni
 - 4+ years building automated & production-ready systems
 - Interests: Data Engineering, Data Science, Data Modeling, Data Pipelines, Predictive Modeling, MLOps, RL
 
-## Main Skills
+## Core Skills
 **Languages & DBs:** Python, R, SQL, PostgreSQL, MongoDB, Prometheus  
 **ML & Tools:** PyTorch, Scikit-Learn, Streamlit, Docker, FastAPI, MLflow  
 **Domains:** Data Engineering, Data Science, Data Modeling, Data Warehousing, RL, Predictive Analytics, Data Visualization, MLOps
