@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I build data pipelines that move reliably and scale without drama.<br/>
+  I build data pipelines that move reliably and scale.<br/>
   4 years at Morgan Stanley &nbsp;·&nbsp; MS Data Science @ University at Buffalo &nbsp;·&nbsp; Open to DE and DS roles.
 </p>
 
