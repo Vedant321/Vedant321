@@ -24,7 +24,7 @@
 | Layer | Tools |
 |---|---|
 | **Languages** | Python · SQL · R |
-| **Pipelines & Streaming** | PySpark · Apache Kafka · Spark Structured Streaming · Apache Airflow |
+| **Pipelines & Streaming** | PySpark · Apache Kafka · Spark Structured Streaming · Apache Airflow · Kafka |
 | **Lakehouse & Warehousing** | Databricks · Delta Lake · dbt · Snowflake · Unity Catalog |
 | **Databases** | PostgreSQL · MySQL · Amazon Redshift · MongoDB |
 | **Cloud** | AWS (S3 · Glue · EMR · Kinesis · Lambda · IAM) · GCP · Docker |
