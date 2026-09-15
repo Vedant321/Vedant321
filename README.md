@@ -43,7 +43,7 @@ End-to-end ETL — **600K+ records** · PostgreSQL 3NF → dbt star schema · au
 **[RLAIF Dialogue Agent](https://github.com/Vedant321)**
 Fine-tuned Mistral-7B with LoRA + PPO on Vertex AI · **5,000+ samples** · zero human labeling · GCP
 
-**[LLM SQL Query Assistant](https://github.com/Vedant321)**
+**[LLM SQL Query Assistant](https://github.com/Vedant321/LLM_SQL_Query_Assistant)**
 Natural language → SQL over a **10K+ record** movie dataset · Streamlit · non-technical user facing
 
 ---
