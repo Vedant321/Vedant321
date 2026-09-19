@@ -40,7 +40,7 @@ Databricks lakehouse processing **110M+ behavioral events** from **5.3M users** 
 **[Supply Chain Data Pipeline](https://github.com/Vedant321/supply-chain-data-pipeline)**
 End-to-end ETL — **600K+ records** · PostgreSQL 3NF → dbt star schema · automated data quality tests · Streamlit dashboard
 
-**[RLAIF Dialogue Agent](https://github.com/Vedant321)**
+**[RLAIF Dialogue Agent](https://github.com/Vedant321/flight-booking-rl-agent)**
 Fine-tuned Mistral-7B with LoRA + PPO on Vertex AI · **5,000+ samples** · zero human labeling · GCP
 
 **[LLM SQL Query Assistant](https://github.com/Vedant321/LLM_SQL_Query_Assistant)**
