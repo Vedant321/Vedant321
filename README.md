@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/vedant-nilesh-shinde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-beige-two-8a82nfk3ey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Vedant_12345/"><img src="https://img.shields.io/badge/LeetCode_443+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/Vedant_12345/"><img src="https://img.shields.io/badge/LeetCode_500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
