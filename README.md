@@ -61,6 +61,6 @@ Natural language → SQL over a **10K+ record** movie dataset · Streamlit · no
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant321&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
