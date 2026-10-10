@@ -50,6 +50,8 @@ Natural language → SQL over a **10K+ record** movie dataset · Streamlit · no
 
 ## 🏆 Highlights
 
+🥇 **1st Place — AI for Good Hackathon 2026, ACV Auctions Challenge @ UB** · GoingOnce: Multi-agent AI platform for automotive dealers, streamlining vehicle discovery, risk detection, buyer matching, negotiation, and fleet distribution.
+
 🥈 **2nd Place — UCSF QBI Hackathon 2026** · HiveBlot: LLM + OCR pipeline extracting structured experimental data from research PDFs — cutting literature search from hours to seconds
 
 ⚡ **Databricks Data + AI Summit 2026** · Built a healthcare agentic app on-site processing **10,000+ facility records** · Databricks Apps · Agent Bricks · Lakebase
