@@ -28,7 +28,7 @@
 | **Lakehouse & Warehousing** | Databricks · Delta Lake · dbt · Snowflake · Unity Catalog |
 | **Databases** | PostgreSQL · MySQL · Amazon Redshift · MongoDB |
 | **Cloud** | AWS (S3 · Glue · EMR · Kinesis · Lambda · IAM) · GCP · Docker |
-| **ML & AI** | Scikit-Learn · PyTorch · MLflow · LLMs · Reinforcement Learning |
+| **ML & AI** | Scikit-Learn · PyTorch · MLflow · LLMs · Reinforcement Learning · Agentic AI · LangGraph|
 
 ---
 
